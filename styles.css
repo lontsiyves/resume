@@ -258,6 +258,27 @@ ul.a {
     left: 0;
 }
 
+.btn {
+    margin: 1rem;
+    padding: 0.5rem 1.5rem;
+    font-size: 0.9rem;
+    font-weight: 600;
+    background: #2d9cdb;
+    color: #fff;
+    border: 1px solid #fff;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.btn:hover{
+    background: #fff;
+    color: #2d9cdb;
+    border: 1px solid #2d9cdb;
+}
+
+.Download {
+    text-align: center;
+    margin: 15px;
+}
 /*Media Querries*/
 @media screen and (max-width: 823px) {
     .right-title::after {
@@ -294,7 +315,6 @@ ul.a {
     .profile img {
         width: 60%;
     }
-    
 }
 @media screen and (max-width: 390px) {
     .name {
