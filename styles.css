@@ -12,6 +12,10 @@ body {
 .site {
     color: #2d9cdb;
 }
+.copy-right {
+    text-align: center;
+    padding-bottom: 2rem;
+}
 .main-content {
     min-height: 100vh;
     width: 80%;
@@ -119,23 +123,35 @@ a {
     background-color: #2d9cdb;
     border-radius: 12px;
 }
-.js-progress {
-    width: 70%;
+.React-progress {
+    width: 80%;
 }
-.ps-progress {
+.Vue-progress {
     width: 90%;
 }
-.j-progress {
+.Angular-progress {
     width: 85%;
 }
-.c-progress {
-    width: 40%;
+.Nest-progress {
+    width: 80%;
 }
-.n-progress {
-    width: 63%;
+.Nuxt-progress {
+    width: 90%;
+}
+.Bootstrap-progress {
+    width: 90%;
+}
+.Express-progress {
+    width: 90%;
 }
 .w-progress {
     width: 78%;
+}
+.english-progress{
+    width: 70%;
+}
+.french-progress {
+    width: 95%;
 }
 
 .skill-title {
