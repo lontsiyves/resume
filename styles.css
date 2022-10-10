@@ -277,7 +277,8 @@ ul.a {
 
 .Download {
     text-align: center;
-    margin: 15px;
+    margin-bottom: 15px;
+    margin-top: 15px;
 }
 /*Media Querries*/
 @media screen and (max-width: 823px) {
