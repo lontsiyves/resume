@@ -124,22 +124,22 @@ a {
     border-radius: 12px;
 }
 .React-progress {
-    width: 80%;
+    width: 95%;
 }
 .Vue-progress {
     width: 90%;
 }
 .Angular-progress {
-    width: 85%;
+    width: 95%;
 }
 .Nest-progress {
-    width: 80%;
+    width: 85%;
 }
 .Nuxt-progress {
     width: 90%;
 }
 .Bootstrap-progress {
-    width: 90%;
+    width: 95%;
 }
 .Express-progress {
     width: 90%;
